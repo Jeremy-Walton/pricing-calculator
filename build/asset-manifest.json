@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7252264f.chunk.css",
-    "main.js": "/static/js/main.0cb6fb3d.chunk.js",
-    "main.js.map": "/static/js/main.0cb6fb3d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.430665917dbac6eeafaafbfa85aa324b.js": "/precache-manifest.430665917dbac6eeafaafbfa85aa324b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7252264f.chunk.css.map": "/static/css/main.7252264f.chunk.css.map"
+    "main.css": "/pricing-calculator/static/css/main.7252264f.chunk.css",
+    "main.js": "/pricing-calculator/static/js/main.9bfb0c32.chunk.js",
+    "main.js.map": "/pricing-calculator/static/js/main.9bfb0c32.chunk.js.map",
+    "runtime~main.js": "/pricing-calculator/static/js/runtime~main.547ed8f4.js",
+    "runtime~main.js.map": "/pricing-calculator/static/js/runtime~main.547ed8f4.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/pricing-calculator/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/pricing-calculator/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/pricing-calculator/index.html",
+    "precache-manifest.0013ecd69438e4af14b6fe99f35640f9.js": "/pricing-calculator/precache-manifest.0013ecd69438e4af14b6fe99f35640f9.js",
+    "service-worker.js": "/pricing-calculator/service-worker.js",
+    "static/css/main.7252264f.chunk.css.map": "/pricing-calculator/static/css/main.7252264f.chunk.css.map"
   }
 }
